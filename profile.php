@@ -76,7 +76,7 @@ include "partials/_dbconnect.php"
         <div class="container ">
             <div class="row">
                 <div class="cover_img_con col-md-12" style="display: flex;"><img class="col-md-12"
-                        style="margin: auto; border-radius: 36px" src="images/background.png" alt="" height="500px">
+                        style="margin: auto; border-radius: 36px" src="images/346635-PAVK7F-810.jpg" alt="" height="500px">
                 </div>
 
                 <div class="Profile_image col-md-3">
